@@ -18,7 +18,7 @@ Medication and medical condition patterns for targeted care.
 🔮 Driving Strategic Planning:
 By analyzing admission types and patient flow, this dashboard provides actionable insights for resource management, financial planning, and patient satisfaction improvements.
 
-Let’s redefine healthcare operations with data analytics! 💻 Check it out on GitHub: [GitHub link]
+Let’s redefine healthcare operations with data analytics! 💻
 
 I’d love to hear your thoughts or connect on future innovations! 🙌
 #PowerBI #DataAnalytics #HealthcareInnovation #OperationalExcellence
